@@ -1,4 +1,4 @@
-play-oauth-silhouette
+Scala play-oauth-silhouette
 ====================
 
 ## Live Demo
@@ -24,7 +24,7 @@ Register your application at [LinkedIn Developer](https://www.linkedin.com/secur
 
 #### Twitter
 
-TODO
+TODO Yet to impl
 
 ## Features
 
