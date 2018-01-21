@@ -3,7 +3,7 @@ Scala play-oauth-silhouette
 
 ## Live Demo
 
-You can see a live demo at [Heroku](https://play-oauth.herokuapp.com).
+You can see a live demo at [Heroku](https://suryakanta.herokuapp.com/).
 
 ## Authorizations
 
